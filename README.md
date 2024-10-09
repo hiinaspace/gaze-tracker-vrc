@@ -14,7 +14,9 @@ screen-like objects for a specific other project.
 
 ## Installation
 
-1. Add the VRChat VPM package (TBD) to your project with the Vrchat Creator Companion.
+1. Add [the VRChat VPM package](https://hiinaspace.github.io/gaze-tracker-vrc/)
+   to your project with the Vrchat Creator Companion. Or find the latest release on
+   github and get the .unitypackage version.
 
 ## Usage
 
