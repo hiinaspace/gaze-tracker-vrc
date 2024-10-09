@@ -1,5 +1,7 @@
 /*/
-!com.vrchat.core.*
+#!com.vrchat.core.*
+#!com.vrchat.core.*/
+# unclear why this is in the repo, since it has all the dlls and stuff.
+com.vrchat.core.vpm-resolver/
 
-# Change this to match your new package name
-!com.vrchat.demo-template 
+!space.hiina.gaze.tracker

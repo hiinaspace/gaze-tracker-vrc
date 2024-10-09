@@ -1,0 +1,15 @@
+{
+  "name": "space.hiina.gaze.tracker",
+  "references": [
+    "VRC.SDK3",
+    "VRC.SDKBase"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "defineConstraints": [],
+  "optionalUnityReferences": []
+}

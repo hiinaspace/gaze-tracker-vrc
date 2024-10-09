@@ -1,0 +1,25 @@
+{
+  "name": "space.hiina.space.hiina.gaze.tracker",
+  "displayName": "Gaze Tracker VRC",
+  "version": "0.0.1",
+  "description": "vrchat world prefab to track what players are looking at over time",
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.worlds": "3.7.x"
+  },
+  "author": {
+    "name": "Hiina",
+    "email": "hiina@hiina.space",
+    "url": "https://hiina.space"
+  },
+  "license": "WTFPL",
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "samples": [
+    {
+      "displayName": "Gaze Tracker Sample Scene",
+      "description": "sample world to test gaze tracker",
+      "path": "Samples/GazeTrackerSampleScene"
+    }
+  ]
+}
