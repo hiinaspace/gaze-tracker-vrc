@@ -2,6 +2,7 @@
 #!com.vrchat.core.*
 #!com.vrchat.core.*/
 # unclear why this is in the repo, since it has all the dlls and stuff.
-com.vrchat.core.vpm-resolver/
 
 !space.hiina.gaze.tracker
+!com.vrchat.core.*/
+com.vrchat.core.vpm-resolver/

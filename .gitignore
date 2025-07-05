@@ -66,3 +66,7 @@ Assets/PackageMakerWindowData.asset*
 Assets/SerializedUdonPrograms
 Assets/UdonSharp
 Assets/XR
+
+# vrchat example scene
+Assets/Scenes
+Assets/Scenes.meta
