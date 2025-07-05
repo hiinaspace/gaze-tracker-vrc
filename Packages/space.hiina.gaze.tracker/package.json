@@ -1,7 +1,7 @@
 {
   "name": "space.hiina.space.hiina.gaze.tracker",
   "displayName": "Gaze Tracker VRC",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "vrchat world prefab to track what players are looking at over time",
   "gitDependencies": {},
   "vpmDependencies": {
